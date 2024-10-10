@@ -1,0 +1,17 @@
+ 3.3  4525
+  3.1  4826
+  3.7  5634
+  3.4  6742
+  4  7651
+  4.1  8260
+  4.6  8664
+  4.3  8463
+  3.7  7956
+  3.2  6845
+  2.9  5735
+  3.3  4727
+█ Average max. and min. temperatures in °F
+█ Precipitation totals in inches
+Source: U.S. Climate Divisional Dataset
+Metric conversion
+Virginia has a humid subtropical climate that transitions to humid continental west of the Blue Ridge Mountains.[115] Seasonal extremes vary from average lows of 25 °F (−4 °C) in January to average highs of 86 °F (30 °C) in July.[116] The Atlantic Ocean and Gulf Stream have a strong effect on eastern and southeastern coastal areas of the Commonwealth, making the climate there warmer but also more constant. Most of Virginia's recorded extremes in temperature and precipitation have occurred in the Blue Ridge Mountains and areas west.[117] Virginia receives an average of 43.47 inches (110 cm) of precipitation annually
